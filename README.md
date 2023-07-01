@@ -1,7 +1,6 @@
-# CME307-Final-Project
-{Novel Applications of Sensor Network Localization in Healthcare and Disaster Management}
+# Novel Applications of Sensor Network Localization in Healthcare and Disaster Management
 
-Abstract:
+## Abstract:
 Sensor network localization (SNL) is a complex problem 
 involving the estimation of sensor positions based on 
 distance measurements. This project investigates the 
